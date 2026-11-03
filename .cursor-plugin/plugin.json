@@ -1,0 +1,14 @@
+{
+  "name": "deliverect",
+  "version": "1.0.0",
+  "description": "Ask about your restaurant's sales, orders, menus and opening hours across every location and ordering channel, using live data from Deliverect. Read-only.",
+  "author": {
+    "name": "Deliverect",
+    "email": "integrations-support@deliverect.com"
+  },
+  "homepage": "https://help.deliverect.com/",
+  "repository": "https://github.com/Deliverect/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["deliverect", "restaurants", "orders", "sales", "menus", "mcp"],
+  "logo": "assets/logo.png"
+}
