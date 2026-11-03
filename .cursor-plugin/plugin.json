@@ -10,5 +10,5 @@
   "repository": "https://github.com/Deliverect/cursor-plugin",
   "license": "MIT",
   "keywords": ["deliverect", "restaurants", "orders", "sales", "menus", "mcp"],
-  "logo": "assets/logo.png"
+  "logo": "assets/logo.svg"
 }
